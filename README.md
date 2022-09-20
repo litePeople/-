@@ -10,7 +10,12 @@
 # 下面地址 还能刷话题 通关
 [老接口地址](https://qiannet.applinzi.com/yyy.html)
 
-# 接口地址改了，每天只能通关一次，不加次数
+
+[能刷皮肤 通关APP](https://a.app.qq.com/o/simple.jsp?pkgname=com.ertls.kuaibao)
+
+
+
+# 接口地址改了，每天只能通关一次，不加次数 朋友们
 
 ```
   QQ群:8588048
