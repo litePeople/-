@@ -1,7 +1,7 @@
 # 羊了个羊最新全网唯一成功通关
 
 #### 介绍
-### 2022.09.20 最新羊了个羊一键通关攻略
+### 2022.09.21 最新羊了个羊一键通关攻略
 
 # 新接口已经更新，老接口失效 
 
@@ -11,7 +11,6 @@
 [老接口地址](https://qiannet.applinzi.com/yyy.html)
 
 
-[能刷皮肤 通关APP](https://a.app.qq.com/o/simple.jsp?pkgname=com.ertls.kuaibao)
 [能刷皮肤 通关APP](https://a.app.qq.com/o/simple.jsp?pkgname=com.ertls.kuaibao)
 [能刷皮肤 通关APP](https://a.app.qq.com/o/simple.jsp?pkgname=com.ertls.kuaibao)
 
